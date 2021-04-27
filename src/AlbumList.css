@@ -1,0 +1,14 @@
+ul.albums{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul.albums li{
+    list-style: none;
+    padding: 10px 5px;
+}
+
+ul.albums li:hover, ul.albums li.active{
+    background-color: beige;
+}

@@ -1,0 +1,20 @@
+.album-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.album-info .picture{
+    width: 40%;
+}
+
+.album-info .info{
+    width: 60%;
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+height: auto;
+}

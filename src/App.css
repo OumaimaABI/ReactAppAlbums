@@ -1,0 +1,32 @@
+ body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.App{
+  width: 950px;
+  display: flex;
+}
+
+.nav{
+  width: 30%;
+}
+
+.content{
+  width: 70%;
+  padding: 20px;
+  border-left: 1px solid gray;
+}
+
+th, td{
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #8080804d;
+}
+
+table{
+  width: 100%;
+}
